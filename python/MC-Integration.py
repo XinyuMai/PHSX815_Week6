@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import scipy.integrate as integrate
 
 
-# We want to estimate the following integral ∫ e^x dx from -1 to 1.
+# We want to estimate the following integral ∫ e^{x^3} dx from -1 to 1.
 
 # HW7 ##
 # Implement a Monte Carlo integration to a function in one or more dimensions.
